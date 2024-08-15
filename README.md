@@ -36,3 +36,7 @@ High-Risk Groups: Segment employees into high-risk groups based on demographic, 
 Conclusion:
 
 By leveraging HR analytics to understand and address employee attrition, organizations can proactively identify and mitigate attrition risks, improve employee retention rates, and foster a more engaged and productive workforce. This project demonstrates the transformative potential of data-driven approaches in optimizing HR strategies and driving organizational success.
+
+![HR_Analytics](https://github.com/user-attachments/assets/db103f19-62b5-4e4a-b567-77ab496cdc58)
+
+
